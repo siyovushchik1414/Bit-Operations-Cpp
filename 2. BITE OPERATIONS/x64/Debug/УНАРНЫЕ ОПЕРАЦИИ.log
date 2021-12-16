@@ -1,0 +1,4 @@
+﻿  УНАРНЫЕ ОПЕРАЦИИ.cpp
+C:\Users\Siyovush\Desktop\SIYOVUSH\CODING\МГУ\АЛГОРИТМИЧЕСКИЕ ЗАДАЧИ\2. BITE OPERATIONS\УНАРНЫЕ ОПЕРАЦИИ.cpp(73,15): warning C4101: n: неиспользованная локальная переменная
+C:\Users\Siyovush\Desktop\SIYOVUSH\CODING\МГУ\АЛГОРИТМИЧЕСКИЕ ЗАДАЧИ\2. BITE OPERATIONS\УНАРНЫЕ ОПЕРАЦИИ.cpp(57): warning C4717: division: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  УНАРНЫЕ ОПЕРАЦИИ.vcxproj -> C:\Users\Siyovush\Desktop\SIYOVUSH\CODING\МГУ\АЛГОРИТМИЧЕСКИЕ ЗАДАЧИ\2. BITE OPERATIONS\x64\Debug\УНАРНЫЕ ОПЕРАЦИИ.exe
